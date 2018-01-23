@@ -8,4 +8,6 @@ Creating a new branch is quick.
 
 Creating a new branch is quick and simple.
 
-test merge 2
+test merge 2  
+
+test bug issue  
