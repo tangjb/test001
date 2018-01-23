@@ -10,4 +10,4 @@ Creating a new branch is quick and simple.
 
 test merge 2  
 
-test bug issue  
+test bug issue 1 
